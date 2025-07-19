@@ -13,7 +13,7 @@ export const galleries: Galleries = [
     category: "Paintings",
     images: [
       {
-        name: "image.png", // Important: specify the extension
+        name: "Green_cow.jpg", // Important: specify the extension
         description: "Description of image 1",
       }, // duplicate image object for more
     ],
