@@ -3,7 +3,7 @@ import { Header, Social, Galleries } from "../types";
 export const header: Header = {
   title: "Hello, I'm Olga Panasenco.",
   description: "Welcome to my art gallery!",
-  image: require("./profile.png"),
+  image: require("./Olga_portret2.png"),
   disabled: false,
 };
 
