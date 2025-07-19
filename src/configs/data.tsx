@@ -24,7 +24,7 @@ export const galleries: Galleries = [
     category: "Art Prints/Cyanotype",
     images: [
       {
-        name: "Green_cow.jpg", // Important: specify the extension
+        name: "cyan_ink_1.jpg", // Important: specify the extension
         description: "Description of image 1",
       }, // duplicate image object for more
     ],
