@@ -10,7 +10,28 @@ export const header: Header = {
 
 export const galleries: Galleries = [
   {
-    category: "Category name",
+    category: "Paintings",
+    images: [
+      {
+        name: "image.png", // Important: specify the extension
+        description: "Description of image 1",
+      }, // duplicate image object for more
+    ],
+  }, // duplicate gallery object for more
+];
+
+{
+    category: "Art Prints/Cyanotype",
+    images: [
+      {
+        name: "image.png", // Important: specify the extension
+        description: "Description of image 1",
+      }, // duplicate image object for more
+    ],
+  }, // duplicate gallery object for more
+];
+{
+    category: "Paintings",
     images: [
       {
         name: "image.png", // Important: specify the extension
