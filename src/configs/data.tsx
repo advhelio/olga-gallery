@@ -14,11 +14,11 @@ export const galleries: Galleries = [
     images: [
       {
         name: "Green_cow.jpg", // Important: specify the extension
-        description: "Description of image 1",
+        description: "Description of image Green_cow",
       }, // 
       {
         name: "painting_1.jpg", // Important: specify the extension
-        description: "Description of image 1",
+        description: "Description of image painting_1",
       },duplicate image object for more
     ],
   }, // duplicate gallery object for more
