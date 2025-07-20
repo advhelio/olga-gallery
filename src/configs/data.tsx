@@ -19,7 +19,7 @@ export const galleries: Galleries = [
       {
         name: "painting_1.jpg", // Important: specify the extension
         description: "Description of image painting_1",
-      },duplicate image object for more
+      },
     ],
   }, // duplicate gallery object for more
 ];
