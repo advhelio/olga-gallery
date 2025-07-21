@@ -13,34 +13,31 @@ export const galleries: Galleries = [
     category: "Paintings",
     images: [
       {
-        name: "Green_cow.jpg", // Important: specify the extension
+        name: "Green_cow.jpg",
         description: "Description of image Green_cow",
-      }, // 
+      },
       {
-        name: "painting_1.jpg", // Important: specify the extension
+        name: "painting_1.jpg",
         description: "Description of image painting_1",
       },
     ],
-  }, // duplicate gallery object for more
-];
-
-{
+  },
+  {
     category: "Art Prints/Cyanotype",
     images: [
       {
-        name: "cyan_ink_1.jpg", // Important: specify the extension
+        name: "cyan_ink_1.jpg",
         description: "Description of image 1",
-      }, // duplicate image object for more
+      },
     ],
-  }, // duplicate gallery object for more
-];
-{
+  },
+  {
     category: "Photography",
     images: [
       {
-        name: "Green_cow.jpg", // Important: specify the extension
+        name: "Green_cow.jpg",
         description: "Description of image 1",
-      }, // duplicate image object for more
+      },
     ],
-  }, // duplicate gallery object for more
+  },
 ];
