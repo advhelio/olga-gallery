@@ -41,7 +41,7 @@ export const galleries: Galleries = [
     category: "Photography",
     images: [
       {
-        name: "images/Green_cow.jpg",
+        name: "Green_cow.jpg",
         description: "Description of image 1",
       },
     ],
